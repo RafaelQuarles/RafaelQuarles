@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for comming to my github profile. I'm still learning the ropes and hope to make some usefull repositories in the future.
+Thanks for stopping by my github profile. I'm still learning the ropes and hope to make some usefull repositories in the future.
 
 <!--
 **RafaelQuarles/RafaelQuarles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
